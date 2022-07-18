@@ -2,7 +2,7 @@
 A module to save images of car License plate from video feed. And another to get the number of the license plate from image feed..
 
 
-## 1. to save images of car License plate from video feed.
+## 1. To save images of car License plate from video feed.
 
 the code file:- 
              
@@ -37,7 +37,7 @@ the code file:-
 
 * Python 3
 * OpenCV
-* easyocr   
+* easyOCR   
           
           pip install easyocr
      
